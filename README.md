@@ -5,7 +5,9 @@ You can store any information you are interested in (webpage, articles, pdf, ...
 
 The project aims to explore how to build an LLM-Agent based application. It's currently in its ealy stage. All feedbacks and discussions are welcome.
 
-## Demos
+## Demo
+
+https://github.com/Smilexuhc/memory_copilot/assets/39055087/c15fb8b5-911c-40cd-9af7-929a4f694407
 
 ## Getting Started
 
